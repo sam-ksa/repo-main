@@ -1,0 +1,47 @@
+{
+  "settings": {
+    "prefix": null,
+    "logChannel": "1573787961110302962",
+    "categories": {
+      "voice": "1573776758099153056",
+      "text": "1573776758099153056"
+    },
+    "leadersRole": null,
+    "managers": [
+      "418804382486757407"
+    ],
+    "managerRole": null,
+    "panel": {
+      "channelId": "1573777379984281750",
+      "messageId": "1573832803236450344",
+      "interval": 60
+    },
+    "pointsPerTick": 1,
+    "ignoreDeafened": true,
+    "maxMembers": 0,
+    "color": "#5c5e64",
+    "panelStyle": {
+      "version": 22
+    }
+  },
+  "groups": {
+    "4a7363d3": {
+      "id": "4a7363d3",
+      "name": "AA",
+      "leader": "418804382486757407",
+      "members": [
+        "418804382486757407",
+        "763409951032606730"
+      ],
+      "admins": [],
+      "voiceChannel": "1573780827186401430",
+      "textChannel": "1573780824799838321",
+      "role": "1573780821607845949",
+      "points": 36,
+      "voiceMinutes": 72,
+      "bot": "aa",
+      "createdAt": 1795290161702,
+      "image": "1534186296627695776-group-4a7363d3-1795300826555.png"
+    }
+  }
+}

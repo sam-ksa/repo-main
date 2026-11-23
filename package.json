@@ -1,0 +1,21 @@
+{
+  "name": "panel-tek-groups",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.17.1",
+    "@discordjs/voice": "^0.19.2",
+    "@napi-rs/canvas": "^0.1.51",
+    "pro.db": "^3.0.8"
+  },
+  "keywords": [],
+  "description": "Panel Tek groups bot",
+  "engines": {
+    "node": ">=22.12.0"
+  }
+}
